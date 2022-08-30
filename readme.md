@@ -42,6 +42,6 @@ Flash library provides web development microframework. Also, in this example, it
 ### Architecture Evolution Activity
 Based on your reading this week, could you write a section that might be appended to this paper, Salah et al, 2016, which would present the next phase of evolution history, from microservices to the technologies which are commonly in use today?
 
-Please refer to this <a ref="#"> link to read the response </a>
+Please refer to this <a ref="https://drmohammadatieh.github.io/SSD/discussions.html#ArchitectureEvolution"> link to read the response </a>
 
 
